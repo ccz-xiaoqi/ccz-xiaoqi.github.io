@@ -9,7 +9,7 @@
             "url": "http://example.com/2021/12/11/hello-world/",
             "title": "Hello World",
             "date_published": "2021-12-11T15:11:05.032Z",
-            "content_html": "<h1 id=\"hello-github\"><a class=\"markdownIt-Anchor\" href=\"#hello-github\">#</a> hello   github</h1>\n",
+            "content_html": "<h1 id=\"hello-github\"><a href=\"#hello-github\" class=\"headerlink\" title=\"hello   github\"></a>hello   github</h1>",
             "tags": []
         }
     ]

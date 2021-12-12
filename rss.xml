@@ -12,8 +12,7 @@
             <title>Hello World</title>
             <link>http://example.com/2021/12/11/hello-world/</link>
             <pubDate>Sat, 11 Dec 2021 23:11:05 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;hello-github&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#hello-github&#34;&gt;#&lt;/a&gt; hello   github&lt;/h1&gt;
- ]]></description>
+            <description><![CDATA[ &lt;h1 id=&#34;hello-github&#34;&gt;&lt;a href=&#34;#hello-github&#34; class=&#34;headerlink&#34; title=&#34;hello   github&#34;&gt;&lt;/a&gt;hello   github&lt;/h1&gt; ]]></description>
         </item>
     </channel>
 </rss>
