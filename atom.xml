@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://example.com</id>
+    <title>Hexo</title>
+    <link href="http://example.com" />
+    <updated>2021-12-11T15:11:05.032Z</updated>
+    <entry>
+        <id>http://example.com/2021/12/11/hello-world/</id>
+        <title>Hello World</title>
+        <link rel="alternate" href="http://example.com/2021/12/11/hello-world/"/>
+        <content type="html">&lt;h1 id=&#34;hello-github&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#hello-github&#34;&gt;#&lt;/a&gt; hello   github&lt;/h1&gt;
+</content>
+        <updated>2021-12-11T15:11:05.032Z</updated>
+    </entry>
+</feed>
